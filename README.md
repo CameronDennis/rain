@@ -25,3 +25,7 @@ y | changes the color of the raindrops to yellow
 space | changes the color of the raindrops to white
 enter (return) | clears the screen of raindrops
 q | stops the simulation
+
+
+
+You do not have my permission to copy this code and claim it as your own. If you would like to build off of it/improve upon it, you may do so, but you *must* credit me.
